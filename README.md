@@ -1,1 +1,3 @@
-# git_intro
+Harry Hadland
+hadlandh@oregonstate.edu
+ 
